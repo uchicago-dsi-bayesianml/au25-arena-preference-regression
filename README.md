@@ -2,6 +2,10 @@
 
 This repo contains a small toolkit for analyzing LLM chat logs using OpenAI models, embeddings, and clustering. It is organized around a few worker utilities that can be called from notebooks or scripts.
 
+## Info
+- Author: Yusen Wu,
+- Final Project for ADSP 32014 Bayesian Machine Learning with Generative AI Applications
+
 ## Project layout
 - `main.ipynb` – example / scratch notebook to drive experiments.
 - `utils.py` – helpers for turning raw conversations into message lists and computing basic conversation-level features (e.g., number of turns, token lengths).
