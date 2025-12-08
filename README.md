@@ -3,7 +3,7 @@
 This repo contains a small toolkit for analyzing LLM chat logs using OpenAI models, embeddings, and clustering. It is organized around a few worker utilities that can be called from notebooks or scripts.
 
 ## Info
-- Author: Yusen Wu,
+- Author: Yusen Wu, Yifei Zhou
 - Final Project for ADSP 32014 Bayesian Machine Learning with Generative AI Applications
 
 ## Project layout
