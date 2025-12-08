@@ -1,0 +1,15 @@
+# --- System & Python Junk ---
+.DS_Store
+__pycache__/
+*.pyc
+
+# --- Output Folders ---
+results/
+out/
+
+# --- Large Data & Cache Files ---
+# You generally don't want massive .npy or .csv files in Git
+test_embeds.npy
+*.npy
+*.csv
+*.pkl
